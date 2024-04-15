@@ -5,12 +5,10 @@
 
 ## 📈 Github_Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&theme=radical&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehan-D-Amendra&theme=radical&langs_count=15&layout=compact&hide_border=true)
+[![Sehan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sehan-D-Amendra&theme=tokyonight)](https://git.io/praveenscience)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Sehan-D-Amendra&theme=redical&hide_border=true&area=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sehan-D-Amendra&theme=radical&hide_border=true)
-
+| ![Sehan's github stats](https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&theme=tokyonight) | ![Sehan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sehan-D-Amendra&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehan-D-Amendra&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 ---
