@@ -30,6 +30,10 @@
 (https://github.com/Sehan-D-Amendra/Sentiment_Analysis_Project)
 ###### Description: Python(Jupyter, flask) / HTML / CSS
 
+### 3. Traffic Prediction Using Machine Learning
+(https://github.com/Sehan-D-Amendra/Traffic-prediction-project)
+###### Description: -Python(Jupyter, flask) / HTML / CSS
+
 
 <h2 align="center"><u><b>Education</b></u></h2>
 <h3>B.Sc. (Hons) in Statistics and Operations Research</h3>
