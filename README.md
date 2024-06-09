@@ -10,7 +10,7 @@
 <p>I am an undergraduate student at the University of Peradeniya, currently pursuing a B.Sc. (Hons) in Statistics and Operations Research. I have a strong passion for data science, data visualization, and web development. My academic journey and personal projects have equipped me with a diverse set of skills in various technologies.</p>
 
 
-## Projects  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+## My Projects  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 ### 1. Machine Learning Project | Laptop Price Predictor
 (https://github.com/Sehan-D-Amendra/Laptop-Price-Predictor)
@@ -34,8 +34,8 @@
 
 
 
+## Education
 
-<h2 align="center"><u><b>Education</b></u></h2>
 <h3>B.Sc. (Hons) in Statistics and Operations Research</h3>
   <h4>University of Peradeniya</h4> 
   <h4>Expected Graduation: 3rd year</h4> 
