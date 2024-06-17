@@ -24,6 +24,10 @@
 (https://github.com/Sehan-D-Amendra/Traffic-prediction-project)
 ###### Description: -Python(Jupyter, flask) / HTML / CSS
 
+### 4. Book Recommender System | Machine Learning Project
+(https://github.com/Sehan-D-Amendra/Book-Recommender-System-)
+###### Description: -Python(Jupyter, flask) / HTML 
+
 
 
 ## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
