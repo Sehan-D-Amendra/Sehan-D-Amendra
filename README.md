@@ -28,6 +28,10 @@
 (https://github.com/Sehan-D-Amendra/Book-Recommender-System-)
 ###### Description: -Python(Jupyter, flask) / HTML 
 
+### 5. Classification of Telco Customer Churn Data | Machine Learning 
+(https://github.com/Sehan-D-Amendra/Classification-of-Telco-Customer)
+###### Description: -Python(Jupyter)
+
 
 
 ## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
