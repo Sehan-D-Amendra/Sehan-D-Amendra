@@ -14,23 +14,27 @@
 
 ### 1. Machine Learning Project | Laptop Price Predictor
 (https://github.com/Sehan-D-Amendra/Laptop-Price-Predictor)
-###### Description: Python(Jupyter, flask) / HTML / CSS
+###### Technologies Used: Python(Jupyter, flask) / HTML / CSS
 
 ### 2. Machine Learning calcification Project | Sentiment Analysis project
 (https://github.com/Sehan-D-Amendra/Sentiment_Analysis_Project)
-###### Description: Python(Jupyter, flask) / HTML / CSS
+###### Technologies Used: Python(Jupyter, flask) / HTML / CSS
 
 ### 3. Traffic Prediction Using Machine Learning
 (https://github.com/Sehan-D-Amendra/Traffic-prediction-project)
-###### Description: -Python(Jupyter, flask) / HTML / CSS
+###### Technologies Used: -Python(Jupyter, flask) / HTML / CSS
 
 ### 4. Book Recommender System | Machine Learning Project
 (https://github.com/Sehan-D-Amendra/Book-Recommender-System-)
-###### Description: -Python(Jupyter, flask) / HTML 
+###### Technologies Used: -Python(Jupyter, flask) / HTML 
 
 ### 5. Classification of Telco Customer Churn Data | Machine Learning 
 (https://github.com/Sehan-D-Amendra/Classification-of-Telco-Customer)
-###### Description: -Python(Jupyter)
+###### Technologies Used: -Python(Jupyter)
+
+### 6. Image Classification and Interpretation Dashboard 📷🤖 | Deep Learning 
+(https://github.com/Sehan-D-Amendra/Image-Classification-app-Streamlit-PyTorch-)
+###### Technologies Used: -Python ( Streamlit, PyTorch and Torchvision, Captum, Matplotlib)
 
 
 
