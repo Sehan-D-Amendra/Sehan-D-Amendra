@@ -36,7 +36,9 @@
 (https://github.com/Sehan-D-Amendra/Image-Classification-app-Streamlit-PyTorch-)
 ###### Technologies Used: -Python ( Streamlit, PyTorch and Torchvision, Captum, Matplotlib)
 
-
+### 7. HR Analytics Dashboard | PowerBI
+(https://github.com/Sehan-D-Amendra/HR-Analytics-Dashboard-)
+###### Technologies Used: - Microsoft PowerBI
 
 ## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
