@@ -40,6 +40,10 @@
 (https://github.com/Sehan-D-Amendra/HR-Analytics-Dashboard-)
 ###### Technologies Used: - Microsoft PowerBI
 
+### 8. Business Analytics Dashboard with Streamlit and Plotly 
+(https://github.com/Sehan-D-Amendra/Business-Analytics-Dashboard-with-Streamlit-and-Plotly)
+###### Technologies Used: -Python (Pandas, Plotly, Streamlit) / CSS
+
 ## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - **Programming Languages:** Python, JavaScript
