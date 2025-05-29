@@ -1,92 +1,78 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+<!-- Banner or Intro Image (Optional) -->
+<!-- ![Banner](your-image-url) -->
 
-<h1 align="center">Hi, I'm Sehan D Amendra<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center"></h3>
-
-## About Me 
-
-<p>I am an undergraduate student at the University of Peradeniya, currently pursuing a B.Sc. (Hons) in Statistics and Operations Research. I have a strong passion for data science, data visualization, and web development. My academic journey and personal projects have equipped me with a diverse set of skills in various technologies.</p>
-
-
-## My Projects  
-
-### 1. Machine Learning Project | Laptop Price Predictor
-(https://github.com/Sehan-D-Amendra/Laptop-Price-Predictor)
-###### Technologies Used: Python(Jupyter, flask) / HTML / CSS
-
-### 2. Machine Learning calcification Project | Sentiment Analysis project
-(https://github.com/Sehan-D-Amendra/Sentiment_Analysis_Project)
-###### Technologies Used: Python(Jupyter, flask) / HTML / CSS
-
-### 3. Traffic Prediction Using Machine Learning
-(https://github.com/Sehan-D-Amendra/Traffic-prediction-project)
-###### Technologies Used: -Python(Jupyter, flask) / HTML / CSS
-
-### 4. Book Recommender System | Machine Learning Project
-(https://github.com/Sehan-D-Amendra/Book-Recommender-System-)
-###### Technologies Used: -Python(Jupyter, flask) / HTML 
-
-### 5. Classification of Telco Customer Churn Data | Machine Learning 
-(https://github.com/Sehan-D-Amendra/Classification-of-Telco-Customer)
-###### Technologies Used: -Python(Jupyter)
-
-### 6. Image Classification and Interpretation Dashboard 📷🤖 | Deep Learning 
-(https://github.com/Sehan-D-Amendra/Image-Classification-app-Streamlit-PyTorch-)
-###### Technologies Used: -Python ( Streamlit, PyTorch and Torchvision, Captum, Matplotlib)
-
-### 7. HR Analytics Dashboard | PowerBI
-(https://github.com/Sehan-D-Amendra/HR-Analytics-Dashboard-)
-###### Technologies Used: - Microsoft PowerBI
-
-### 8. Business Analytics Dashboard with Streamlit and Plotly 
-(https://github.com/Sehan-D-Amendra/Business-Analytics-Dashboard-with-Streamlit-and-Plotly)
-###### Technologies Used: -Python (Pandas, Plotly, Streamlit) / CSS
-
-## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** React, Flask
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Deep Learning:** TensorFlow, Keras
-
-
-
-## Education
-
-<h3>B.Sc. (Hons) in Statistics and Operations Research</h3>
-  <h4>University of Peradeniya</h4> 
-  <h4>Expected Graduation: 3rd year</h4> 
+<h1 align="center">Hi 👋, I'm Sehan Amendra</h1>
+<h3 align="center">Exploring the world of Data 🌍 | ML 🤖 | DL 🧠 | Turning Data into Insight 📊</h3>
 
 
 ---
-### 📐 Languages and Tools
 
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
-<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-<img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
+### 🧑‍💻 About Me
 
-<br/>
+- 🎓 I’m currently studying **Statistics and Operational Research** at the **University of Peradeniya**
+- 💡 I’m interested in **Machine Learning, Deep Learning, Artificial Intelligence, Data Science, Data Analysis, Data Visualization, and Optimization**
+- 🌱 I’m currently learning and working on various **data-driven projects**
+- 💼 I’m passionate about building **ML/DL-based solutions** and turning data into actionable insights
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@s19804)
+- 📫 How to reach me: **sdamendra03@gmail.com**
 
 ---
 
-## 📈 Github_Stats
-
-| ![Sehan's github stats](https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&theme=tokyonight) | ![Sehan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sehan-D-Amendra&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehan-D-Amendra&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 ---
 
+### 🛠️ Tech Stack
 
+#### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🧠 Machine Learning & Deep Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- FlexSim placeholder -->
+![FlexSim](https://img.shields.io/badge/FlexSim-1A1A1A?style=for-the-badge)
+
+#### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sehan-D-Amendra&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sehan-D-Amendra&theme=github-dark" width="47%" />
 </p>
 
-------
+---
 
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sehan-amendra-69119b220/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portpolio-flame.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sehan-D-Amendra)
+
+---
+
+### ⚡ Fun Fact
+
+> _"The best way to predict the future is to create it."_ – Alan Kay  
