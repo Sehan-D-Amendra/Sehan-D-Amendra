@@ -64,6 +64,37 @@
 
 ---
 
+### 🚀 My Projects
+
+#### 📊 Data Analysis & Visualization
+- 🔗 [**Business Analytics Dashboard**](https://github.com/Sehan-D-Amendra/Business-Analytics-Dashboard-with-Streamlit-and-Plotly) — Interactive dashboard using Streamlit and Plotly  
+- 🔗 [**HR Dashboard (Tableau)**](https://github.com/Sehan-D-Amendra/HR-Dashboard--Tableau-) — Visualize HR metrics and KPIs  
+- 🔗 [**HR Analytics Dashboard**](https://github.com/Sehan-D-Amendra/HR-Analytics-Dashboard-) — Analyze employee data with visual insights  
+- 🔗 [**Demands Entry & Excel Dashboard**](https://github.com/Sehan-D-Amendra/Demands-Data-Entry-System-and-Auto-Updated-Excel-Dashboard) — Automate garment factory demand entry & dashboards  
+
+#### 🤖 Machine Learning & AI
+- 🔗 [**Laptop Price Predictor**](https://github.com/Sehan-D-Amendra/Laptop-Price-Predictor) — Predict laptop prices using machine learning  
+- 🔗 [**AI Data Chatbot App**](https://github.com/Sehan-D-Amendra/Chatwithdataapp) — Upload and chat with datasets using PandasAI & Streamlit  
+- 🔗 [**Microsoft Stock Price Prediction**](https://github.com/Sehan-D-Amendra/Microsoft-Stock-Price-Prediction-Using-LSTM-Neural-Networks) — Forecast stock prices using LSTM neural networks  
+- 🔗 [**House Price Prediction**](https://github.com/Sehan-D-Amendra/Linear-Regression-Model-for-House-Price-Prediction) — Linear regression model for predicting house prices  
+- 🔗 [**Customer Segmentation**](https://github.com/Sehan-D-Amendra/Customer-Segmentation-Using-K-means-Clustering) — Apply K-Means clustering to group customer types  
+- 🔗 [**Spam SMS Detection**](https://github.com/Sehan-D-Amendra/Spam-SMS-Detection-Model) — Classify messages as spam or ham using NLP  
+- 🔗 [**Image Classification App**](https://github.com/Sehan-D-Amendra/Image-Classification-app-Streamlit-PyTorch-) — Classify images using PyTorch in a Streamlit app  
+- 🔗 [**Telco Customer Classification**](https://github.com/Sehan-D-Amendra/Classification-of-Telco-Customer) — Predict customer churn in the telecom sector  
+- 🔗 [**Book Recommender System**](https://github.com/Sehan-D-Amendra/Book-Recommender-System-) — Recommend books based on user preferences  
+- 🔗 [**Sentiment Analysis Project**](https://github.com/Sehan-D-Amendra/Sentiment_Analysis_Project) — Analyze text sentiment using NLP models
+- 🔗 [**Traffic Prediction**](https://github.com/Sehan-D-Amendra/Traffic-prediction-project) — Forecast traffic patterns using historical data
+
+#### 💻 Web & Software Development
+- 🔗 [**Portfolio Website**](https://my-portpolio-flame.vercel.app/) — Built with React, Framer Motion & Tailwind CSS  
+- 🔗 [**Network Flow Solver App**](https://github.com/Sehan-D-Amendra/Network-Flow-Solver) — Web app to solve flow network problems  
+
+#### 🗄️ Database & Data Engineering
+- 🔗 [**SQL Data Warehouse Project**](https://github.com/Sehan-D-Amendra/sql-data-warehouse-project) — Build a structured data warehouse using SQL  
+
+---
+
+
 
 ### 🌐 Connect with Me
 
